@@ -8,8 +8,9 @@ define m = Character("최민제", color="#3A8DFF")
 
 # 여기에서부터 게임이 시작합니다.
 label start:
- 
+m "와 공항에 도착했다!!"
 
     return
+
 
 
