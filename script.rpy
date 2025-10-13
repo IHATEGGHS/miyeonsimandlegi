@@ -4,12 +4,12 @@
 
 
 # 게임에서 사용할 캐릭터를 정의합니다.
-
+define m = Character("최민제", color="#3A8DFF")
 
 # 여기에서부터 게임이 시작합니다.
 label start:
-
  
 
     return
+
 
